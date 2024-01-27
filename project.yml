@@ -1,5 +1,5 @@
 packages:
-  - name: sample
+  - name: predictive_collection
     actions:
-      - name: hello
+      - name: v1
         runtime: 'python:default'
